@@ -22,4 +22,10 @@ Voici la trame des épisodes envisagés à ce jour et qui pourra si nécessaire 
 
 ## Qui suis-je ?
 
-Ingénieure de formation, je me suis prise d’intérêt pour l’informatique à l’occasion d’un master en philosophie de sciences. A travers ce projet de podast, je souhaite partager mon enthousiasme pour cette discipline et donner envie à d’autres de s’y intéresser. Je travailler actuellement à l’INRIA, institut de recherche public en informatique. Ce projet est réalisé à titre personnel et est auto-produit.
+Ingénieure de formation, je me suis prise d’intérêt pour l’informatique à l’occasion d’un master en philosophie de sciences. A travers ce projet de podast, je souhaite partager mon enthousiasme pour cette discipline et donner envie à d’autres de s’y intéresser. Je travailler actuellement à l’INRIA, institut de recherche public en informatique. 
+
+J'affectionne particulièrement le format audio qui permet une approche personnelle et créative de sujets _a priori_ un peu arides. J'ai suivi une formation à la création radiophonique auprès de l'association La Cassette, située à Aubervilliers. 
+
+Ce projet est réalisé à titre personnel et est auto-produit.
+
+Vous pouvez me contacter à l'adresse suivante : histoiresbinaires [at] gmail.com
