@@ -10,7 +10,7 @@ A travers le projet de podcast *Histoires Binaires*, je souhaite raconter l’in
 
 ## :microphone: Les épisodes
 
-Voici la trame des épisodes envisagés à ce jour et qui pourra si nécessaire évoluer au fil du projet
+Voici la trame des épisodes envisagée à ce jour et qui pourra si nécessaire évoluer au fil du projet
 
 - **Episode 1** L’automatisation du calcul : les premières machines mécaniques de Pascal à Babbage
 - **Episode 2** Ada Lovelace et le premier algorithme
