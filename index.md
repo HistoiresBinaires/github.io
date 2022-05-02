@@ -19,6 +19,7 @@ Voici la trame des épisodes envisagés à ce jour et qui pourra si nécessaire 
 7. **Episode 7** Les premiers ordinateurs électroniques programmables 
 8. **Episode 8** Un ordinateur peut-il penser ? Le Test de Turing 
 9. **Episode 9** Peut-on tout simuler ? La thèse physique de Church 
+10. **Episode 10** L'essor des ordinateurs personnels
 
 ## Qui suis-je ?
 
