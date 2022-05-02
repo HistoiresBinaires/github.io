@@ -23,7 +23,7 @@ Voici la trame des épisodes envisagée à ce jour et qui pourra si nécessaire 
 - **Episode 9** Peut-on tout simuler ? La thèse physique de Church 
 - **Episode 10** L'essor des ordinateurs personnels
 
-## :love_letter: Qui suis-je ?
+## :woman: Qui suis-je ?
 
 Ingénieure de formation, je me suis prise d’intérêt pour l’informatique à l’occasion d’un master en philosophie de sciences. A travers ce projet de podast, je souhaite partager mon enthousiasme pour cette discipline et donner envie à d’autres de s’y intéresser. Je travailler actuellement à l’INRIA, institut de recherche public en informatique. 
 
@@ -31,4 +31,4 @@ J'affectionne particulièrement le format audio qui permet une approche personne
 
 Ce projet est réalisé à titre personnel et est auto-produit.
 
-Vous pouvez me contacter à l'adresse suivante : histoiresbinaires [at] gmail.com
+:love_letter: Vous pouvez me contacter à l'adresse suivante : histoiresbinaires [at] gmail.com
