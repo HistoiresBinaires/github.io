@@ -12,8 +12,8 @@ A travers le projet de podcast *Histoires Binaires*, je souhaite proposer une pe
 
 Voici la trame des épisodes envisagée à ce jour et qui pourra si nécessaire évoluer au fil du projet
 
-- **[Episode 1](https://drive.google.com/file/d/1ZN_-pZVuQukheTdzYIOm5IAIVV0kQChA/view?usp=sharing)** L’automatisation du calcul : les premières machines à calculer mécaniques
-- **Episode 2** Ada Lovelace et le premier algorithme
+- **[Episode 1](https://drive.google.com/file/d/1cflYKt8K-pzpCNunoGSevNbBFJLco7At/view?usp=share_link) Les rouages du calcul** 
+- **[Episode 2](https://drive.google.com/file/d/1mWDndFGA5Nsiuma0Z6lqIfqjZ2Ij4Gqw/view?usp=share_link) Le programmeur est une programmeuse**
 - **Episode 3** Le raisonnement comme un calcul : l’algèbre de Boole 
 - **Episode 4** La naissance du bit : Claude Shannon 
 - **Episode 5** Les grands calculateurs des années 40 
