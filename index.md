@@ -14,7 +14,7 @@ Voici la trame des épisodes envisagée à ce jour et qui pourra si nécessaire 
 
 - **[Episode 1](https://drive.google.com/file/d/1cflYKt8K-pzpCNunoGSevNbBFJLco7At/view?usp=share_link) Les rouages du calcul** 
 - **[Episode 2](https://drive.google.com/file/d/1mWDndFGA5Nsiuma0Z6lqIfqjZ2Ij4Gqw/view?usp=share_link) Le programmeur est une programmeuse**
-- **Episode 3** Le raisonnement comme un calcul : l’algèbre de Boole 
+- **[Episode 3](https://drive.google.com/file/d/1ukYRgYRCEWw9rOFLcEGJC1biDIZBTGMs/view?usp=sharing) Quand le calcul était analogique** 
 - **Episode 4** La naissance du bit : Claude Shannon 
 - **Episode 5** Les grands calculateurs des années 40 
 - **Episode 6** Le premier ordinateur théorique : la machine de Turing
